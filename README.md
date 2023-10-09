@@ -1,4 +1,4 @@
-### Hi there 👋
+[![An image of @ericaimhigh1's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ericaimhigh1)](https://holopin.io/@ericaimhigh1)
 
 <!--
 **ericaimhigh1/ericaimhigh1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
